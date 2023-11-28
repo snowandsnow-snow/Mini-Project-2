@@ -47,6 +47,7 @@ Deal with these two variables to solve collinearity problem:
 ## 3. Train/Test split
 train: test = 0.8:0.2
 ## 4. Confusion Matrix
+The confusion matrix was defeined in this section
 ## 5 Supervised Models
 ### Model # 1: Logistic Regression
 * Accuracy-Logistic Regression:  0.903037667071689
