@@ -15,7 +15,7 @@ For Numerical Variables:
 
 For Categorical Variables:
 
-For some caterical variables which have too many categories but very unbalanced, they will be grouped into less categories:
+Some caterical variables which have too many categories but very unbalanced, they will be grouped into less categories:
 1. education: college VS. non-college
 2. month :special months (Mar. & Sep. & Otc. & Dec) VS. others
 ### Bivariate analysis of target versus categorical input variables
