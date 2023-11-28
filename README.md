@@ -16,8 +16,10 @@ For Numerical Variables:
 For some caterical variables which have too many categories but very unbalanced, they will be grouped into less categories:
 1. education: college VS. non-college
 2. month :special months (Mar. & Sep. & Otc. & Dec) VS. others
-### Bivariate analysis of target versus input variables
-Compare the target variale (yes/no) doe each category of each variale
+### Bivariate analysis of target versus categorical input variables
+Compare the target variale (yes/no) for each category of each variable using bar plot
+### Bivariate analysis of target versus numerical input variables
+Compare the target variale (yes/no) for each variable using histogram
 
 ### Transform
 Try log transformation for some varible but only duration eliminetd some skew problem. But the log(duration) resulted in bad model results so finally give up.
