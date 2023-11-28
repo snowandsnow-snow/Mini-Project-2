@@ -12,8 +12,8 @@ For Numerical Variables:
 1. PDAYS
 2. EURIBOR3M
 * Others will be normalized using 'StandardScaler'.
-* For Categorical Variables:
 
+For Categorical Variables:
 For some caterical variables which have too many categories but very unbalanced, they will be grouped into less categories:
 1. education: college VS. non-college
 2. month :special months (Mar. & Sep. & Otc. & Dec) VS. others
