@@ -67,8 +67,8 @@ The confusion matrix was defeined in this section
 ### Findings and benefits of the champion model
 The best mode is gradient-boosted tree. The reason may be because its sampling method and we train them to correct each other's errors, they're capable of capturing complex patterns in the data.
 ## 6. Best Model Saving and Load for future use
-The best supervised model is Gradient-boosted tree with 93.07% AUC and 90.86% accuracy.
-Gradient-boosted tree model will be chosen and saved as the champion since it performed best compared with other four models
+We look at the simplest model with the highest AUC values as our model, since logistic regression gives us 92% AUC which is not much lower than GBT at 93%  and is easier to explain to stakeholders we select the logistic regression as our final model
+
 ## 7. Prescriptive recommendations
 Based on the decriptive analysis, we have seen a higher subscribe rate among:
 
